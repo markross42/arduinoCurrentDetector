@@ -61,7 +61,7 @@ The shields dividing the value by two, to be able to measure A/C.
    * Sealing material: epoxy resin
    * Operating temperature: -40 ℃ - 70 ℃
 
-## section license License
+## License
 
  This file is part of the arduinoCurrentDetector.
 
